@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mantoshkichni.github.io/csb-u5456e/static/css/main.21326024.chunk.css",
+    "main.js": "https://mantoshkichni.github.io/csb-u5456e/static/js/main.c6129f4d.chunk.js",
+    "main.js.map": "https://mantoshkichni.github.io/csb-u5456e/static/js/main.c6129f4d.chunk.js.map",
+    "runtime-main.js": "https://mantoshkichni.github.io/csb-u5456e/static/js/runtime-main.548a2d05.js",
+    "runtime-main.js.map": "https://mantoshkichni.github.io/csb-u5456e/static/js/runtime-main.548a2d05.js.map",
+    "static/js/2.199d05fd.chunk.js": "https://mantoshkichni.github.io/csb-u5456e/static/js/2.199d05fd.chunk.js",
+    "static/js/2.199d05fd.chunk.js.map": "https://mantoshkichni.github.io/csb-u5456e/static/js/2.199d05fd.chunk.js.map",
+    "index.html": "https://mantoshkichni.github.io/csb-u5456e/index.html",
+    "static/css/main.21326024.chunk.css.map": "https://mantoshkichni.github.io/csb-u5456e/static/css/main.21326024.chunk.css.map",
+    "static/js/2.199d05fd.chunk.js.LICENSE.txt": "https://mantoshkichni.github.io/csb-u5456e/static/js/2.199d05fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.548a2d05.js",
+    "static/js/2.199d05fd.chunk.js",
+    "static/css/main.21326024.chunk.css",
+    "static/js/main.c6129f4d.chunk.js"
+  ]
+}
